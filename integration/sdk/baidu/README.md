@@ -1,0 +1,16 @@
+---
+description: 百度小程序 SDK 使用说明
+---
+
+# 百度小程序 SDK
+
+## 包含小程序标准版及通用框架版 <a href="bao-han-xiao-cheng-xu-biao-zhun-ban-cha-jian-ban-ji-tong-yong-kuang-jia-ban" id="bao-han-xiao-cheng-xu-biao-zhun-ban-cha-jian-ban-ji-tong-yong-kuang-jia-ban"></a>
+
+首先推荐您使用标准版SDK，框架版本会有一定功能上差别详见：
+
+| 版本名称                       | 差异                    |
+| -------------------------- | --------------------- |
+| [​标准版​](baidusdk.md)       | ​                     |
+| ​[框架版​](baidusdkcustom.md) | 使用第三方框架制作百度小程序，建议使用版本 |
+
+####
